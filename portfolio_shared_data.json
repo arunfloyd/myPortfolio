@@ -47,6 +47,11 @@
         "name": "NodeJS",
         "class": "devicon-nodejs-plain-wordmark",
         "level": "70"
+      },
+      {
+        "name": "ExpressJs",
+        "class": "devicon-express-original-wordmark",
+        "level": "70"
       },{
         "name": "HTML 5",
         "class": "devicon-html5-plain",
@@ -100,6 +105,22 @@
       {
         "name": "Postman",
         "class": "devicon-postman-plain",
+        "level": "60"
+      },
+      {
+        "name": "Redux",
+      "class": "devicon-redux-original",
+        "level": "60"
+      },
+      {
+        "name": "jQuery",
+      "class": "devicon-jquery-plain-wordmark",
+        "level": "60"
+      }
+      ,
+      {
+        "name": "Nginx",
+      "class": "devicon-nginx-original",
         "level": "60"
       }
     ]
