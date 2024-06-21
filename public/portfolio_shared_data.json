@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "name": "Arun Vinod K",
+    "titles": [
+      "MERN Stack Developer",
+      "Front-end Developer",
+      "Back-end Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/arunfloyd",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/floydcodx/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain-wordmark",
+        "level": "70"
+      },{
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      }, {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-original",
+        "level": "95"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "65"
+      },
+
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "65"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "75"
+      },{
+        "name": "FireBase",
+        "class": "devicon-firebase-plain",
+        "level": "75"
+      },
+      {
+        "name": "Jenkins",
+        "class": "devicon-jenkins-line",
+        "level": "60"
+      },
+      
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      },
+      {
+        "name": "Postman",
+        "class": "devicon-postman-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
