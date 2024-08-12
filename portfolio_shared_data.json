@@ -34,6 +34,10 @@
         "level": "80"
       },
       {
+        "class": " devicon-nextjs-original-wordmark",
+        "name": "NextJs"
+      },
+      {
         "name": "TypeScript",
         "class": "devicon-typescript-plain",
         "level": "90"
@@ -80,6 +84,20 @@
       {
         "name": "PostgreSQL",
         "class": "devicon-postgresql-plain",
+        "level": "65"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "65"
+      },
+      {
+        "name": "API",
+        "class": "devicon-fastapi-plain",
+        "level": "65"
+      },{
+        "name": "Axios",
+        "class": "devicon-axios-plain",
         "level": "65"
       },
       {
