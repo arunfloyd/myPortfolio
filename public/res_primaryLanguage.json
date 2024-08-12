@@ -1,299 +1,299 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Arun Vinod K. An ambitious and self-motivated MERN-stack developer with robust technical skills, exceptional self-discipline, and a proven ability to work independently. Adept at playing a pivotal role in website development, ensuring optimal accessibility, user experience, and usability. Proficient in creating scalable, high-performance web applications with a focus on quality and efficiency. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Arun Vinod K. An ambitious and self-motivated MERN-stack developer with robust technical skills, exceptional self-discipline, and a proven ability to work independently. Adept at playing a pivotal role in website development, ensuring optimal accessibility, user experience, and usability. Proficient in creating scalable, high-performance web applications with a focus on quality and efficiency. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "FusionFurni",
+      "startDate": "01-2024",
+      "description": "I’ve developed a complete e-commerce website with HTML and CSS for the frontend, while the backend is powered by Node.js and MongoDB. The site features seamless product browsing, Node.js modules for essential functionalities (payment processing, authentication, order tracking), and a user-friendly admin interface for efficient product and order management.! ",
+      "images": [
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960172/Portfolio/q7wqnsfghjuhngfcm6zx.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960173/Portfolio/grlhfusfvkkxbcpirava.png"
+      ],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7176944035578671105/",
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        }, {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        },{
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "75"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-line",
+          "level": "60"
+        },
+        
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+       
+      ]
     },
-    "projects": [
-      {
-        "title": "FusionFurni",
-        "startDate": "01-2024",
-        "description": "I’ve developed a complete e-commerce website with HTML and CSS for the frontend, while the backend is powered by Node.js and MongoDB. The site features seamless product browsing, Node.js modules for essential functionalities (payment processing, authentication, order tracking), and a user-friendly admin interface for efficient product and order management.! ",
-        "images": [
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960172/Portfolio/q7wqnsfghjuhngfcm6zx.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960173/Portfolio/grlhfusfvkkxbcpirava.png"
-        ],
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7176944035578671105/",
-        "technologies": [
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain",
-            "level": "70"
-          },
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          }, {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain",
-            "level": "85"
-          },
-          {
-            "name": "MongoDB",
-            "class": "devicon-mongodb-plain",
-            "level": "65"
-          },{
-            "name": "NodeJS",
-            "class": "devicon-nodejs-plain-wordmark",
-            "level": "70"
-          },
-          {
-            "name": "AWS",
-            "class": "devicon-amazonwebservices-plain-wordmark",
-            "level": "75"
-          },
-          {
-            "name": "Jenkins",
-            "class": "devicon-jenkins-line",
-            "level": "60"
-          },
-          
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "60"
-          }
-         
-        ]
-      },
-      
-      {
-        "title": "NetflixGPT",
-        "startDate": "02-2023",
-        "description": "Personalized movie assistant with OpenAI’s API. Key Features: Secure signups with Firebase & Google. Netflix-like layout with trending trailers, Now Playing, Top Rated, Upcoming, and Popular movies. Multilingual support (English, Hindi, Spanish). GPT-powered movie search based on mood or queries. Responsive design for desktop & mobile.",
-        "images": [
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960176/Portfolio/xcixjupr7hn2nfvites7.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960185/Portfolio/gimz5ivav48xalzsxgrw.png"
-        ],
-        "url": "https://www.linkedin.com/posts/arunfloyd_introducing-my-latest-mini-project-netflixgpt-activity-7181309274315239424-Boek?utm_source=share&utm_medium=member_desktop",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },{
-            "name": "Tailwind CSS",
-            "class": "devicon-tailwindcss-original",
-            "level": "95"
-          },{
-            "name": "FireBase",
-            "class": "devicon-firebase-plain",
-            "level": "75"
-          },
-          {
-            "name": "Redux",
-            "class": "devicon-redux-original",
-            "level": "60"
-          }, 
-          {
-            "name": "API",
-         "class": " devicon-openapi-plain",
-            "level": "60"
-          },
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "60"
-          }
-        ]
-      },
-      {
-        "title": "CrowdCraft",
-        "startDate": "04-2024",
-        "description": "CrowdCraft is a dynamic platform where community members propose, vote on, and collaborate on local improvement projects. By integrating clubs, contractors, and volunteers, it ensures community-driven develop- ment and transparent execution of projects like street repairs and park renovations, while facilitating crowdfunding and grants resources.I am planning to make this an open-source project. It is currently in the initial stage, and I am working on improving it ",
-        "images": [
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960487/Portfolio/u8kuv3blw5hu7wybkj6n.jpg",
-          "https://img.freepik.com/premium-vector/loading-icon_167801-436.jpg"
-        ],
-        "url": "https://github.com/arunfloyd/CrowdCraft",
-        "technologies": [
-          
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },{
-            "name": "Tailwind CSS",
-            "class": "devicon-tailwindcss-original",
-            "level": "95"
-          },{
-            "name": "FireBase",
-            "class": "devicon-firebase-plain",
-            "level": "75"
-          },
-          {
-            "name": "Redux",
-            "class": "devicon-redux-original",
-            "level": "60"
-          }, 
-          {
-            "name": "API",
-         "class": " devicon-openapi-plain",
-            "level": "60"
-          },
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "60"
-          },
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          }, {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain",
-            "level": "85"
-          },
-          {
-            "name": "MongoDB",
-            "class": "devicon-mongodb-plain",
-            "level": "65"
-          },{
-            "name": "NodeJS",
-            "class": "devicon-nodejs-plain-wordmark",
-            "level": "70"
-          },
-          {
-            "name": "AWS",
-            "class": "devicon-amazonwebservices-plain-wordmark",
-            "level": "75"
-          }
-        ]
-      },{
-        "title": "Recipe Finder",
-        "startDate": "06-2024",
-        "description": "Recipe Finder—a fun, user-friendly app built with Next.js and TypeScript, featuring dynamic search, a clean UI, and detailed recipes fetched from API Ninjas, using a tech stack of Next.js, TypeScript, Ninjas API, Axios, and Styled Components.",
-        "images": [
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445829/Screenshot_from_2024-08-12_12-26-53_j35ozo.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445865/Screenshot_from_2024-08-12_12-27-22_ktataw.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445864/Screenshot_from_2024-08-12_12-27-29_qcm0er.png"
-        ],
-        "url": "https://recipefinderapp4u.netlify.app/",
-        "technologies": [
-          
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": " devicon-nextjs-original-wordmark",
-            "name": "NextJs"
-          },
-         
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },{
-            "name": "Tailwind CSS",
-            "class": "devicon-tailwindcss-original",
-            "level": "95"
-          }
-         ,
-          {
-            "name": "API",
-         "class": " devicon-openapi-plain",
-            "level": "60"
-          },
-          {
-            "name": "Axios",
-            "class": "devicon-axios-plain",
-            "level": "65"
-          },
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "60"
-          }
-        ]
-      },{
-        "title": "Face ID Login",
-        "startDate": "07-2024",
-        "description": "Face ID login! I've implemented a secure, seamless login method using Face ID that captures and stores user facial data during signup, then compares it during login for authentication. Built with React for the front-end, Redux for state management, a webcam for image capture, and face-api.js for facial recognition, this project, deployed on Vercel, showcases how advanced technologies like facial recognition can enhance both security and user experience. While it's a first attempt and there are some issues with security and UI, it's a promising initial step toward more innovative solutions.",
-        "images": [
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446720/Screenshot_from_2024-08-12_12-41-01_nstpue.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446737/Screenshot_from_2024-08-12_12-42-07_pdxero.png",
-          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446810/Screenshot_from_2024-08-12_12-43-21_hbpyto.png"
-        ],
-        "url": "https://face-id-login-gray.vercel.app/",
-        "technologies": [
-          {
-            "name": "React",
-            "class": "devicon-react-original",
-            "level": "80"
-          },
-          {
-            "name": "Redux",
+    
+    {
+      "title": "NetflixGPT",
+      "startDate": "02-2023",
+      "description": "Personalized movie assistant with OpenAI’s API. Key Features: Secure signups with Firebase & Google. Netflix-like layout with trending trailers, Now Playing, Top Rated, Upcoming, and Popular movies. Multilingual support (English, Hindi, Spanish). GPT-powered movie search based on mood or queries. Responsive design for desktop & mobile.",
+      "images": [
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960176/Portfolio/xcixjupr7hn2nfvites7.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960185/Portfolio/gimz5ivav48xalzsxgrw.png"
+      ],
+      "url": "https://www.linkedin.com/posts/arunfloyd_introducing-my-latest-mini-project-netflixgpt-activity-7181309274315239424-Boek?utm_source=share&utm_medium=member_desktop",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },{
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-original",
+          "level": "95"
+        },{
+          "name": "FireBase",
+          "class": "devicon-firebase-plain",
+          "level": "75"
+        },
+        {
+          "name": "Redux",
           "class": "devicon-redux-original",
-            "level": "60"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },{
-            "name": "Tailwind CSS",
-            "class": "devicon-tailwindcss-original",
-            "level": "95"
-          }
-         ,
-          {
-            "name": "API",
-         "class": " devicon-openapi-plain",
-            "level": "60"
-          },
-          {
-            "name": "Git",
-            "class": "devicon-git-plain",
-            "level": "60"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Brototype",
-        "title": "Intern ",
-        "years": "10.2023 - present",
-        "mainTech": [
-          "MERN Stack"
-        ],
-        "technologies": [
-          "ReactJs",
-          "ExpressJs",
-          "JavaScript",
-          "NodeJs",
-          "MongoDB",
-          "HTML5",
-          "CSS3",
-          "Tailwind CSS",
-          "AWS"
-        ]
-      }
-    ]
-  }
+          "level": "60"
+        }, 
+        {
+          "name": "API",
+       "class": " devicon-openapi-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+      ]
+    },
+    {
+      "title": "CrowdCraft",
+      "startDate": "04-2024",
+      "description": "CrowdCraft is a dynamic platform where community members propose, vote on, and collaborate on local improvement projects. By integrating clubs, contractors, and volunteers, it ensures community-driven develop- ment and transparent execution of projects like street repairs and park renovations, while facilitating crowdfunding and grants resources.I am planning to make this an open-source project. It is currently in the initial stage, and I am working on improving it ",
+      "images": [
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1718960487/Portfolio/u8kuv3blw5hu7wybkj6n.jpg",
+        "https://img.freepik.com/premium-vector/loading-icon_167801-436.jpg"
+      ],
+      "url": "https://github.com/arunfloyd/CrowdCraft",
+      "technologies": [
+        
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },{
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-original",
+          "level": "95"
+        },{
+          "name": "FireBase",
+          "class": "devicon-firebase-plain",
+          "level": "75"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "60"
+        }, 
+        {
+          "name": "API",
+       "class": " devicon-openapi-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        }, {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        },{
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "75"
+        }
+      ]
+    },{
+      "title": "Recipe Finder",
+      "startDate": "06-2024",
+      "description": "Recipe Finder—a fun, user-friendly app built with Next.js and TypeScript, featuring dynamic search, a clean UI, and detailed recipes fetched from API Ninjas, using a tech stack of Next.js, TypeScript, Ninjas API, Axios, and Styled Components.",
+      "images": [
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445829/Screenshot_from_2024-08-12_12-26-53_j35ozo.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445865/Screenshot_from_2024-08-12_12-27-22_ktataw.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445864/Screenshot_from_2024-08-12_12-27-29_qcm0er.png"
+      ],
+      "url": "https://recipefinderapp4u.netlify.app/",
+      "technologies": [
+        
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": " devicon-nextjs-original-wordmark",
+          "name": "NextJs"
+        },
+       
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },{
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-original",
+          "level": "95"
+        }
+       ,
+        {
+          "name": "API",
+       "class": " devicon-openapi-plain",
+          "level": "60"
+        },
+        {
+          "name": "Axios",
+          "class": "devicon-axios-plain",
+          "level": "65"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+      ]
+    },{
+      "title": "Face ID Login",
+      "startDate": "07-2024",
+      "description": "Face ID login! I've implemented a secure, seamless login method using Face ID that captures and stores user facial data during signup, then compares it during login for authentication. Built with React for the front-end, Redux for state management, a webcam for image capture, and face-api.js for facial recognition, this project, deployed on Vercel, showcases how advanced technologies like facial recognition can enhance both security and user experience. While it's a first attempt and there are some issues with security and UI, it's a promising initial step toward more innovative solutions.",
+      "images": [
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446720/Screenshot_from_2024-08-12_12-41-01_nstpue.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446737/Screenshot_from_2024-08-12_12-42-07_pdxero.png",
+        "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446810/Screenshot_from_2024-08-12_12-43-21_hbpyto.png"
+      ],
+      "url": "https://face-id-login-gray.vercel.app/",
+      "technologies": [
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Redux",
+        "class": "devicon-redux-original",
+          "level": "60"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },{
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-original",
+          "level": "95"
+        }
+       ,
+        {
+          "name": "API",
+       "class": " devicon-openapi-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Brototype",
+      "title": "Intern ",
+      "years": "10.2023 - present",
+      "mainTech": [
+        "MERN Stack"
+      ],
+      "technologies": [
+        "ReactJs",
+        "ExpressJs",
+        "JavaScript",
+        "NodeJs",
+        "MongoDB",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "AWS"
+      ]
+    }
+  ]
+}
