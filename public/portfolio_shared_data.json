@@ -34,6 +34,10 @@
         "level": "80"
       },
       {
+        "class": " devicon-nextjs-original-wordmark",
+        "name": "NextJs"
+      },
+      {
         "name": "TypeScript",
         "class": "devicon-typescript-plain",
         "level": "90"
@@ -46,6 +50,11 @@
       {
         "name": "NodeJS",
         "class": "devicon-nodejs-plain-wordmark",
+        "level": "70"
+      },
+      {
+        "name": "ExpressJs",
+        "class": "devicon-express-original-wordmark",
         "level": "70"
       },{
         "name": "HTML 5",
@@ -78,6 +87,20 @@
         "level": "65"
       },
       {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "65"
+      },
+      {
+        "name": "API",
+        "class": "devicon-fastapi-plain",
+        "level": "65"
+      },{
+        "name": "Axios",
+        "class": "devicon-axios-plain",
+        "level": "65"
+      },
+      {
         "name": "AWS",
         "class": "devicon-amazonwebservices-plain-wordmark",
         "level": "75"
@@ -100,6 +123,22 @@
       {
         "name": "Postman",
         "class": "devicon-postman-plain",
+        "level": "60"
+      },
+      {
+        "name": "Redux",
+      "class": "devicon-redux-original",
+        "level": "60"
+      },
+      {
+        "name": "jQuery",
+      "class": "devicon-jquery-plain-wordmark",
+        "level": "60"
+      }
+      ,
+      {
+        "name": "Nginx",
+      "class": "devicon-nginx-original",
         "level": "60"
       }
     ]

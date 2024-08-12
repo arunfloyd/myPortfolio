@@ -67,6 +67,7 @@
          
         ]
       },
+      
       {
         "title": "NetflixGPT",
         "startDate": "02-2023",
@@ -183,6 +184,93 @@
             "name": "AWS",
             "class": "devicon-amazonwebservices-plain-wordmark",
             "level": "75"
+          }
+        ]
+      },{
+        "title": "Recipe Finder",
+        "startDate": "06-2024",
+        "description": "Recipe Finder—a fun, user-friendly app built with Next.js and TypeScript, featuring dynamic search, a clean UI, and detailed recipes fetched from API Ninjas, using a tech stack of Next.js, TypeScript, Ninjas API, Axios, and Styled Components.",
+        "images": [
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445829/Screenshot_from_2024-08-12_12-26-53_j35ozo.png",
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445865/Screenshot_from_2024-08-12_12-27-22_ktataw.png",
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723445864/Screenshot_from_2024-08-12_12-27-29_qcm0er.png"
+        ],
+        "url": "https://recipefinderapp4u.netlify.app/",
+        "technologies": [
+          
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": " devicon-nextjs-original-wordmark",
+            "name": "NextJs"
+          },
+         
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },{
+            "name": "Tailwind CSS",
+            "class": "devicon-tailwindcss-original",
+            "level": "95"
+          }
+         ,
+          {
+            "name": "API",
+         "class": " devicon-openapi-plain",
+            "level": "60"
+          },
+          {
+            "name": "Axios",
+            "class": "devicon-axios-plain",
+            "level": "65"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "60"
+          }
+        ]
+      },{
+        "title": "Face ID Login",
+        "startDate": "07-2024",
+        "description": "Face ID login! I've implemented a secure, seamless login method using Face ID that captures and stores user facial data during signup, then compares it during login for authentication. Built with React for the front-end, Redux for state management, a webcam for image capture, and face-api.js for facial recognition, this project, deployed on Vercel, showcases how advanced technologies like facial recognition can enhance both security and user experience. While it's a first attempt and there are some issues with security and UI, it's a promising initial step toward more innovative solutions.",
+        "images": [
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446720/Screenshot_from_2024-08-12_12-41-01_nstpue.png",
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446737/Screenshot_from_2024-08-12_12-42-07_pdxero.png",
+          "https://res.cloudinary.com/dbl8uexjf/image/upload/v1723446810/Screenshot_from_2024-08-12_12-43-21_hbpyto.png"
+        ],
+        "url": "https://face-id-login-gray.vercel.app/",
+        "technologies": [
+          {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "80"
+          },
+          {
+            "name": "Redux",
+          "class": "devicon-redux-original",
+            "level": "60"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },{
+            "name": "Tailwind CSS",
+            "class": "devicon-tailwindcss-original",
+            "level": "95"
+          }
+         ,
+          {
+            "name": "API",
+         "class": " devicon-openapi-plain",
+            "level": "60"
+          },
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "60"
           }
         ]
       }
